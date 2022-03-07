@@ -14,6 +14,44 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>WHRDisplay (watchOS) WatchKit App (Complication).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>WHRDisplay (watchOS) WatchKit App (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WHRDisplay (watchOS) WatchKit App.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B947B6626D52D2C004DB445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B947B6926D52D2D004DB445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B9AD32326CFE7C0005F4766</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B9AD32B26CFE7C0005F4766</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
